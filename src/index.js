@@ -11,6 +11,7 @@ import './index.scss';
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
+      <h1>Рабочий проект</h1>
       <App />
     </Provider>
   </React.StrictMode>,
